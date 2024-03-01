@@ -1,5 +1,5 @@
-$key="YOUR_KEY"
-$endpoint="YOUR_ENDPOINT"
+$key="5af7ae4ccec441faaab513d9a1826fc4"
+$endpoint="https://testnewlanguate9001232024.cognitiveservices.azure.com/"
 
 # Code to call Text Analytics service to analyze sentiment in text
 $txt_file = "review1.txt"
